@@ -7,7 +7,7 @@ e-mail: alena.kvitinskaya@gmail.com
 
 ### About myself
 
-I am studing to be Front-End programmer. I am hardworking, purposeful, fast learner, aktive, friendly, communicative and kind person.
+Hello, My name is Alena Kvitinskaya. I am a doctor by my first education. I do not like to be satisfied with what has already been achieved and therefore I decided to try myself in another field. Now I am hardworking, purposeful, fast learner, active, friendly, communicative and kind person.
 
 ### My skills 
 
@@ -18,13 +18,13 @@ HTML, SQL, CSS, JavaScript, Git
 ### Work Experience:
 
 ### Education: 
-2003-2009 - Belorussian State Medical Univercity, doctor;
+2003-2009 - Belorussian State Medical Univercity, MD;
 
-2013 - IT-Academy, business analysis in IT;
+2013 - IT-Academy, BA;
 
-2017 - HRPR SCHOOL, recruiter;
+2017 - HRPR SCHOOL, HR;
 
-2018 - SkillUp IT SPECIALIST TREINING CENTER, Software tester;
+2018 - SkillUp IT SPECIALIST TREINING CENTER, QA;
 
 2020 - RS School, Front-end developer.
 
