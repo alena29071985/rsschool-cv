@@ -11,7 +11,7 @@ I am studing to be Front-End programmer. I am hardworking, purposeful, fast lear
 
 ### My skills 
 
-HTML, SQL, CSS, Java Script,Git
+HTML, SQL, CSS, JavaScript, Git
 
 ### Code Examples:
 
@@ -19,9 +19,13 @@ HTML, SQL, CSS, Java Script,Git
 
 ### Education: 
 2003-2009 - Belorussian State Medical Univercity, doctor;
+
 2013 - IT-Academy, business analysis in IT;
+
 2017 - HRPR SCHOOL, recruiter;
-2018 - SkillUp IT SPECIALIST TREINING CENTER, Software tester.
+
+2018 - SkillUp IT SPECIALIST TREINING CENTER, Software tester;
+
 2020 - RS School, Front-end developer.
 
 ### English Level
